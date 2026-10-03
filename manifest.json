@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-image-manager",
+  "name": "Image Manager",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Organize pasted images and clean up unused image attachments",
+  "author": "ephemeral-s",
+  "authorUrl": "https://github.com/ephemeral-s",
+  "isDesktopOnly": false
+}
